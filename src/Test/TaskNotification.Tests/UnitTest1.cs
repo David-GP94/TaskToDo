@@ -1,4 +1,4 @@
-namespace NotificationService.Tests
+namespace TaskNotification.Tests
 {
     public class UnitTest1
     {
